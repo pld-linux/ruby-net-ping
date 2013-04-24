@@ -1,4 +1,4 @@
-%global gem_name net-ping
+%define	gem_name net-ping
 Summary:	A ping interface for Ruby
 Name:		ruby-%{gem_name}
 Version:	1.6.0
