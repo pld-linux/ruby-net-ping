@@ -56,6 +56,5 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc README CHANGES
-%dir %{ruby_vendorlibdir}/net
 %{ruby_vendorlibdir}/net/ping.rb
 %{ruby_vendorlibdir}/net/ping
